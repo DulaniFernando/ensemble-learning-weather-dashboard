@@ -1,0 +1,1 @@
+["tmax_today", "tmax_lag1", "tmax_lag2", "tmax_lag3", "tmax_lag7", "temperature_2m_min", "temperature_2m_mean", "precipitation_sum", "precipitation_hours", "precip_7d_mean", "windspeed_10m_max", "winddirection_10m_dominant", "et0_fao_evapotranspiration", "doy_sin", "doy_cos"]

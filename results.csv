@@ -1,0 +1,7 @@
+model,MAE,RMSE,R2
+Random Forest,0.627,0.862,0.706
+XGBoost,0.623,0.842,0.72
+Naive (tomorrow = today),0.714,1.006,0.6
+ARIMA (one-step),0.66,0.898,0.682
+Stacking (RF + ARIMA + Ridge),0.618,0.857,0.71
+Hybrid (ARIMA + RF residuals),0.632,0.848,0.716
